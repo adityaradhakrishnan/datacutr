@@ -6,8 +6,8 @@ search:
   exclude: ['news/index.html']
 repo:
   url:
-    home: https://github.com/pharmaverse/datacutr
-    source: https://github.com/pharmaverse/datacutr
+    home: https://github.com/pharmaverse/datacutr/
+    source: https://github.com/pharmaverse/datacutr/blob/HEAD/
     issue: https://github.com/pharmaverse/datacutr/issues/
     user: https://github.com/
 news:
